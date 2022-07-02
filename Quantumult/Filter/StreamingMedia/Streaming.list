@@ -122,13 +122,13 @@ DOMAIN,foxsports01-i.akamaihd.net,Streaming
 DOMAIN,foxsports02-i.akamaihd.net,Streaming
 DOMAIN,foxsports03-i.akamaihd.net,Streaming
 DOMAIN,staticasiafox.akamaized.net,Streaming
-# > HBO NOW & Max
-USER-AGENT,HBO%20NOW*,Streaming
-DOMAIN-SUFFIX,hbo.com,Streaming
-DOMAIN-SUFFIX,hbogo.com,Streaming
-DOMAIN-SUFFIX,hbonow.com,Streaming
-USER-AGENT,HBOMAX*,Streaming
-DOMAIN-SUFFIX,hbomax.com,Streaming
+  # > HBO NOW & Max
+ # USER-AGENT,HBO%20NOW*,Streaming
+ # DOMAIN-SUFFIX,hbo.com,Streaming
+ # DOMAIN-SUFFIX,hbogo.com,Streaming
+ # DOMAIN-SUFFIX,hbonow.com,Streaming
+ # USER-AGENT,HBOMAX*,Streaming
+ # DOMAIN-SUFFIX,hbomax.com,Streaming
 # > HBO GO HKG
 USER-AGENT,HBO%20GO%20PROD%20HKG*,Streaming
 DOMAIN-SUFFIX,hbogoasia.com,Streaming
